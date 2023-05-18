@@ -1,0 +1,11 @@
+.nav {
+  width: 23vw;
+  margin: 30px auto;
+  padding: 1px 20px;
+  box-shadow: 0 0 3px #878787;
+}
+.nav h1 {
+  text-shadow: 2px 2px #DADADA ;
+  color:black;
+  text-align: center;
+}
