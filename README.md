@@ -44,7 +44,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Demo
 
-Check out the live demo of the application at [https://rahul2870.github.io/calculator-coding-ninja-task](https://rahul2870.github.io/calculator-coding-ninja-task)
+Check out the live demo of the application at [https://calculator-coding-ninja-task.vercel.app](https://calculator-coding-ninja-task.vercel.app/)
 
 ## Authors
 
